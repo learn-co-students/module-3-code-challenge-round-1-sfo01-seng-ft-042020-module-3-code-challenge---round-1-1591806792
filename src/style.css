@@ -1,0 +1,17 @@
+.delete-icon {
+  padding-left: 0.5rem;
+  cursor: pointer;
+  color: #ff0226;
+}
+
+input {
+  font-size: 2rem;
+}
+
+#image_card {
+  margin: 0 auto;
+  float: none;
+  margin-top: 10px;
+  height: 600px;
+  overflow-y: auto;
+}
